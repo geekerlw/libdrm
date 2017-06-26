@@ -1,4 +1,4 @@
-libdrm (2.4.76-1~ubuntu16.04.1) xenial; urgency=medium
+libdrm (2.4.76-1~ubuntu16.04.1-1) xenial; urgency=medium
 
   * Backport to xenial. (LP: #1687981)
     - use debhelper 9
